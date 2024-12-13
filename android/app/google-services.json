@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853153399134",
+    "project_id": "fake-store-cdd10",
+    "storage_bucket": "fake-store-cdd10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853153399134:android:ab3c3535ca886d05810fcf",
+        "android_client_info": {
+          "package_name": "com.example.fake_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853153399134-g7ing2mvt8kppcilc1b494nb36cfgf8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPBnccnKB9Y3kmEB9L623Y7Diu1FIdTEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853153399134-g7ing2mvt8kppcilc1b494nb36cfgf8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
